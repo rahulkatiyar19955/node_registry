@@ -18,7 +18,7 @@ For detailed instructions on how to:
 - [General Tutorials](https://github.com/DeepX-inc/node_registry/wiki/Simple-Listener-&-Talker)
 - [Configure](https://github.com/DeepX-inc/node_registry/wiki/Configure)
 
-
+-- TODO: How to use pre-commit hook
 
 ---
 ---
